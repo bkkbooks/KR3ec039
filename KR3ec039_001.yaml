@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3ec039/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 本草備要
+  edition:
+    short: t
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ec039.xml
+hash: sha256:abe3c94f60084a93e38ee0f64796bf72a8f730a67e17c9fa49a2bd5394634adb

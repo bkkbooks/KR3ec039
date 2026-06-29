@@ -1,0 +1,22 @@
+canonical_identifier: bkk:krp/KR3ec039/T/v1
+canonical_location: https://kanripo.org/bkk/KR3ec039/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 本草備要
+  identifiers:
+    krp: KR3ec039
+  tags:
+    kr-categories: KR3ec
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ec039.xml
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 1, filename: KR3ec039_001-T.yaml, hash: 'sha256:abe3c94f60084a93e38ee0f64796bf72a8f730a67e17c9fa49a2bd5394634adb'}
+table_of_contents: []
+hash: sha256:39db5086763f9f0529bbefa288b9f69201d82a0e2cf340cbb8233bbbaa8682a4
